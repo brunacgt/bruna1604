@@ -23,3 +23,26 @@ body {
         widht: 100%;
         margin: 0 auto;
     }
+.titulo-principal {
+    text-align: left;
+    width: 100%
+    font-size: 32pix;
+    }
+.titulo-principal span{
+    color: var (--verde);
+}
+.botao {
+    font-family: "chakara Petch", sans-serif;
+    background-color: var(--botao-inativo);
+    color: var(--branco);
+    display: flex; 
+    justify-content: center;
+    padding:1em;
+    font-size: 18px;
+    align-items: center;
+    widht: 100%;
+    border-bottom:;
+    border-left:;
+    border-rigth:;
+    border-top:;
+}
